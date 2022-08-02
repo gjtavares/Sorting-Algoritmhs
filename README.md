@@ -1,1 +1,1 @@
-# Sorting-Algoritmhs
+Comparação entre algoritmos de ordenação.
